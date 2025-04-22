@@ -1,1 +1,1 @@
-# Adobe-uninstall
+# Adobe auto uninstall
